@@ -1,0 +1,203 @@
+header{
+    height:125px;
+    width: auto;
+    border: solid;   
+}
+nav{
+     height:80px;
+    width: auto;
+    border: solid;
+background-color:antiquewhite
+}    
+section{
+    height: 500px;
+    width: 35%;
+    border:solid;
+    background-image: url(assg2.html);
+    background-color:brown
+}
+aside{
+      height: 500px;
+    width: 64.5%;
+    border:solid;
+    float: right;
+    margin-top:-506px;
+    background-color: bisque
+}
+footer{
+    height: 50px;
+    border: solid;
+    background-color: darkkhaki
+}
+#one{
+    font-size: 50px;
+    margin-top: 10px;
+    background-color: aliceblue;
+    text-decoration-style: double;
+    outline-color: red;
+}
+#two{
+    font-size: 30px;
+    margin-top: 10px;
+      margin-left: 70px;
+          background-color: coral;
+   
+}
+    #three{
+    font-size: 30px;
+    margin-top: 10px;
+        margin-left: 500px;
+    
+          background-color: coral;
+   
+}
+#four{
+    font-size: 30px;
+    margin-top: 10px;
+        margin-left: 400px;
+    background-color: coral;
+}
+.one{
+    border: solid;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+    margin-top:-490px;
+    
+}
+.two{
+    border: solid;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+    margin-top: 40px;
+    
+}
+.three{
+    border: solid;
+    height: 100px;
+    width: 100px;
+    margin-left: 130px;
+    margin-top: 50px;
+    
+}
+.one1{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 50px;
+    
+}
+.two2{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-left: 50px;
+    margin-top: 150px;
+    
+}
+.three3{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-right: 450px;
+    margin-top: -110px;
+    float: right;
+}
+.onee{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-right: 90px;
+    margin-top: -110px;
+    float: right;
+}
+.twoo{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-right: 90px;
+    margin-top: -360px;
+    float: right;
+}
+.threee{
+     border: solid;
+    height: 100px;
+    width: 120px;
+    margin-right: 450px;
+    margin-top: -360px;
+    float: right;
+}
+.four4{
+  margin-right: 200px;
+
+}
+
+.five{
+     font-size: 30px;
+    margin-top: 10px;
+      margin-left: 70px;
+        
+   
+}.four4
+{
+
+margin-top: 10px;
+      margin-left: 70px;
+}
+.seven
+{
+    background-color: chocolate;
+}
+#thirty{
+    height: 125px;
+    background-image: url(images2.html);
+}
+#fourty{
+   margin-left: 90px;
+} 
+#fourt{
+   margin-left: 35px;
+}
+#foury{
+   margin-left: 40px;
+} 
+#fouru{
+   margin-left: 60px;
+    margin-top:-90px;
+} 
+ #fouri{
+   margin-left: 48px;
+    
+} 
+#fourm{
+   margin-left: 40px;
+    
+} 
+#ten{
+    height: 125px;
+    background-image: url(images3.html);
+}
+#teen{
+    height:500px;
+    background-image: url(images.html);
+}
+        
+#teem{
+    height:500px;
+    width: 64%px
+    background-image: url(images.html);
+}
+
+
+.ren{
+     font-size: 20px;
+    margin-top: 10px;
+    background-color: bisque
+} 
+
+}
+
+
+
